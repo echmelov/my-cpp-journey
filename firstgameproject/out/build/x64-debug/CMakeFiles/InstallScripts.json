@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/egork/source/repos/firstgameproject/out/build/x64-debug/cmake_install.cmake",
+		"C:/Users/egork/source/repos/firstgameproject/out/build/x64-debug/firstgameproject/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,3 @@
+C:/cpp_learning/cmakefirstproject/build/CMakeFiles/app.dir
+C:/cpp_learning/cmakefirstproject/build/CMakeFiles/ALL_BUILD.dir
+C:/cpp_learning/cmakefirstproject/build/CMakeFiles/ZERO_CHECK.dir

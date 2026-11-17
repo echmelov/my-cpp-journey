@@ -1,0 +1,10 @@
+# ninja log v7
+11	953	8166326071372062	firstgameproject/CMakeFiles/firstgameproject.dir/firstgameproject.cpp.obj	f11325d8656f55b2
+864	1122	8166385458767423	firstgameproject/firstgameproject.exe	ea0e747e034abaea
+8	840	8166385450206370	firstgameproject/CMakeFiles/firstgameproject.dir/main.cpp.obj	94892fc5f001d03b
+17	863	8166385450297708	firstgameproject/CMakeFiles/firstgameproject.dir/player.cpp.obj	9ef4e04323ab7a82
+14	876	8166386073343573	firstgameproject/CMakeFiles/firstgameproject.dir/player.cpp.obj	9ef4e04323ab7a82
+877	1054	8166386081983476	firstgameproject/firstgameproject.exe	ea0e747e034abaea
+5	872	8166387118481374	firstgameproject/CMakeFiles/firstgameproject.dir/main.cpp.obj	94892fc5f001d03b
+14	875	8166387118573274	firstgameproject/CMakeFiles/firstgameproject.dir/player.cpp.obj	9ef4e04323ab7a82
+876	1063	8166387127185891	firstgameproject/firstgameproject.exe	ea0e747e034abaea
